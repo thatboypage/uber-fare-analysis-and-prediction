@@ -159,5 +159,5 @@ This is a personal project, but feel free to fork it, give feedback, or suggest 
 ## 📧 Contact
 
 Built by **Richard Olamide Olanite**
-For inquiries or collaborations, connect on [LinkedIn](www.linkedin.com/in/richard-olanite-55b4b0241) or \[[email@example.com](richardolanite@gmail.com)]
+For inquiries or collaborations, connect on (www.linkedin.com/in/richard-olanite-55b4b0241) or \[(richardolanite@gmail.com)]
 
