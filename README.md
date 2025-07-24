@@ -1,6 +1,6 @@
 # 🚕 Uber Fare Analysis and Prediction
 
-This project analyzes and predicts Uber ride fares in New York City using historical ride data. It includes a complete machine learning pipeline — from raw data cleaning and feature engineering to model training, evaluation, and deployment using a Streamlit web app.
+This project analyzes and predicts Uber ride fares in New York City using historical ride data. It includes a complete machine learning pipeline - from raw data cleaning and feature engineering to model training, evaluation, and deployment using a Streamlit web app.
 
 ---
 
