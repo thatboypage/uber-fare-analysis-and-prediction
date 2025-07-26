@@ -6,7 +6,7 @@ from math import radians, sin, cos, asin, sqrt
 from datetime import datetime, time, date
 
 # Load the pre-trained model
-model = joblib.load('xgb_fare_model.pkl')
+model = joblib.load('models/xgb_fare_model.pkl')
 
 # Optional: Styling for the background
 st.markdown(
